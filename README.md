@@ -20,7 +20,7 @@ A command-line tool for searching and analyzing IL2CPP dump files from Unity gam
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/official-notfishvr/AgentDump-Il2cpp.git
 cd AgentDump
 dotnet build
 ```
